@@ -1,0 +1,23 @@
+li {
+    list-style: none;
+}
+
+
+
+.home-wrap{
+    width: 95%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-home{
+    font-size: 5.8rem;
+}
+
+.home-content{
+    width: 100%;
+}
